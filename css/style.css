@@ -24,6 +24,7 @@ body {
     height: 300px;
     object-fit: cover;
     width: 100%;
+    cursor: pointer;
 }
 
 main {
