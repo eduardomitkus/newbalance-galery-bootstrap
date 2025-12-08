@@ -43,3 +43,20 @@ main {
     font-weight: 400;
     color: #1a1a1a;
 }
+
+.section-dark {
+    background-color: #1a1a1a;
+}
+
+.title-icon {
+    height: 1.75em;
+    width: 1.75em;
+    object-fit: contain;
+}
+
+.title-icon-white {
+    height: 1.75em;
+    width: 1.75em;
+    object-fit: contain;
+    filter: brightness(0) invert(1);
+}
