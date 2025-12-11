@@ -65,3 +65,14 @@ main {
 #imageModalImg {
     border-radius: 8px;
 }
+
+.reference-link {
+    color: #64b5f6;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.reference-link:hover {
+    color: #90caf9;
+    text-decoration: underline;
+}
